@@ -2,10 +2,7 @@
 
 
 **UNIQUE MARKET REFERENCE** :       B0999ABC123456789
-<!-- hello -->
-<!-- second comment -->
-<!-- third comment -->
-
+<!-- hello -->  
 
 **TYPE:**  
 All Risks of Direct Physical Loss or Damage including Boiler Explosion and Machinery Breakdown insurance.
