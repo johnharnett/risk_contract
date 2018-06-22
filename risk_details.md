@@ -9,7 +9,7 @@
 Some Risks of Direct Physical Loss or Damage including Boiler Explosion and Machinery Breakdown insurance.
 
 **INSURED:**  
-XXXX American Inc.
+1234 American Inc.
 
 **ADDRESS:**  
 Number 1, Big Boulevard, Olympia, Washington (WA) 99999, USA
