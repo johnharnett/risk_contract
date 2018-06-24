@@ -43,7 +43,7 @@ Earthquake / Windstorm / Flood: USD   2,000
 All other perils except for the above: USD 1,000 
 ```
 **INSURED'S  RETENTION**:     
-21% of 100%.
+20 of 100%.
 
 **SITUATION**:  
 Offices of the yinsured in the USA.
